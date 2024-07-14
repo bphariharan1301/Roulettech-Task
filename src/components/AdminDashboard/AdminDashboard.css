@@ -1,0 +1,19 @@
+.form-fields {
+  margin: 4rem;
+  display: flex;
+  /* flex-direction: row; */
+  padding-left: 4rem ;
+  padding-right: 4rem;
+  gap: 1rem;
+}
+
+.form-fields-div {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  width: 100%;
+}
+
+.btn-submit {
+  width: 20%;
+}

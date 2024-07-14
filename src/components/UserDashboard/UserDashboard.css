@@ -1,0 +1,30 @@
+#user-dashboard-section {
+  padding: 2rem;
+}
+
+.file-uploader-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.file_uploader {
+  background-color: aqua;
+  height: 50vh !important;
+  width: 80%;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center;
+  gap: 0.5rem;
+  flex-direction: row;
+  /* margin-bottom: ; */
+}
+
+.jWkLDY {
+  display: flex !important;
+  -webkit-box-pack: justify !important;
+  justify-content: center !important;
+  -webkit-box-flex: 1;
+  flex-grow:  0 !important;
+}
